@@ -1,5 +1,13 @@
 # 🏨 Hotel Booking Analysis
 
+## 📊 Dashboard Preview
+
+### Dashboard - Part 1
+![Dashboard 1](Dashboard_1.png)
+
+### Dashboard - Part 2
+![Dashboard 2](Dashboard_2.png)
+
 ## 📌 Project Overview
 
 This project analyzes hotel booking data using Microsoft Excel to uncover booking trends, cancellation patterns, customer behavior, and business insights. The project includes data cleaning, data transformation, PivotTables, PivotCharts, KPIs, slicers, and an interactive dashboard.
