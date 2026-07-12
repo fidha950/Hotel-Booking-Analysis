@@ -36,11 +36,9 @@ Removed duplicates and invalid records (zero guests, unrealistic ADR), handled m
 
 ## 📊 Dashboard
 
-*(Add your dashboard screenshot here)*
+![Hotel Bookings Analysis Dashboard](dashboard-screenshot-2.png)
 
-```
-![Dashboard Screenshot](dashboard-screenshot.png)
-```
+![Dashboard – Country, Revenue & ADR Trend View](dashboard-screenshot-1.png)
 
 | Total Bookings | Cancellation Rate | Est. Revenue | Average ADR | Avg. Lead Time |
 |---|---|---|---|---|
