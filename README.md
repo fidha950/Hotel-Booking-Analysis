@@ -36,7 +36,11 @@ Removed duplicates and invalid records (zero guests, unrealistic ADR), handled m
 
 ## 📊 Dashboard
 
-(Dashboard_1.png, Dashboard_2.png)
+### Dashboard - Part 1
+![Dashboard 1](Dashboard_1.png)
+
+### Dashboard - Part 2
+![Dashboard 2](Dashboard_2.png)
 
 | Total Bookings | Cancellation Rate | Est. Revenue | Average ADR | Avg. Lead Time |
 |---|---|---|---|---|
